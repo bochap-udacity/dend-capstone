@@ -1,0 +1,91 @@
+﻿code,description,category
+CW1,CNMI-only transitional workers,Temporary worker visas
+CW2,Spouses and children of CW1,Temporary worker visas
+H1B,Temporary workers in specialty occupations,Temporary worker visas
+H1B1,Chile and Singapore Free Trade Agreement aliens,Temporary worker visas
+H1C,Registered nurses participating in the Nursing Relief for Disadvantaged Areas,Temporary worker visas
+H2A,Agricultural workers,Temporary worker visas
+H2B,Nonagricultural workers,Temporary worker visas
+H2R,Returning H2B workers,Temporary worker visas
+H3,Trainees,Temporary worker visas
+H4,"Spouses and children of H1, H2, or H3",Temporary worker visas
+O1,Workers with extraordinary ability or achievement,Temporary worker visas
+O2,Workers accompanying and assisting in performance of O1 workers,Temporary worker visas
+O3,Spouses and children of O1 and O2,Temporary worker visas
+P1,Internationally recognized athletes or entertainers,Temporary worker visas
+P2,Artists or entertainers in reciprocal exchange programs,Temporary worker visas
+P3,Artists or entertainers in culturally unique programs,Temporary worker visas
+P4,"Spouses and children of P1, P2, or P3",Temporary worker visas
+Q1,Workers in international cultural exchange programs,Temporary worker visas
+R1,Workers in religious occupations,Temporary worker visas
+R2,Spouses and children of R1,Temporary worker visas
+TN,North American Free Trade Agreement (NAFTA) professional workers,Temporary worker visas
+TD,Spouses and children of TN,Temporary worker visas
+L1,Intracompany transferees,Temporary worker visas
+L2,Spouses and children of L1,Temporary worker visas
+E1,Treaty traders and their spouses and children,Temporary worker visas
+E2,Treaty investors and their spouses and children,Temporary worker visas
+E2C,Treaty investors and their spouses and children (CNMI only),Temporary worker visas
+E3,"Australian Free Trade Agreement principals, spouses and children",Temporary worker visas
+E3D,Spouse or Child of E3,Temporary worker visas
+E3R,Returning E3,Temporary worker visas
+I1,Representatives of foreign information media and spouses and children,Temporary worker visas
+F1,Academic students,Student And Exchange visas
+F2,Spouses and children of F1,Student And Exchange visas
+M1,Vocational students,Student And Exchange visas
+M2,Spouses and children of M1,Student And Exchange visas
+J1,Exchange visitors,Student And Exchange visas
+J2,Spouses and children of J1,Student And Exchange visas
+A1,"Ambassadors, public ministers, career diplomatic or consular officers and their families",Diplomats and other foreign government visas
+A2,Other foreign government officials or employees and their families,Diplomats and other foreign government visas
+A3,"Attendants, servants, or personal employees of A1 and A2 and their families",Diplomats and other foreign government visas
+G1,Principals of recognized foreign governments,Diplomats and other foreign government visas
+G2,Other representatives of recognized foreign governments,Diplomats and other foreign government visas
+G3,Representatives of nonrecognized or nonmember foreign governments,Diplomats and other foreign government visas
+G4,International organization officers or employees,Diplomats and other foreign government visas
+G5,"Attendants, servants, or personal employees of representatives",Diplomats and other foreign government visas
+NATO 1,"Principal Permanent Representative of Member State to NATO (including any of its Subsidiary Bodies) Resident in the U.S. and Resident Members of Official Staff; Secretary General, Assistant Secretaries General, and Executive Secretary of NATO; Other Permanent NATO Officials of Similar Rank, or Immediate Family",Diplomats and other foreign government visas
+NATO 2,"Other Representative of member state to NATO (including any of its Subsidiary Bodies) including Representatives, Advisers, and Technical Experts of Delegations, or Immediate Family; Dependents of Member of a Force Entering in Accordance with the Provisions of the NATO Status-of-Forces Agreement or in Accordance with the provisions of the “Protocol on the Status of International Military Headquarters”; Members of Such a Force if Issued Visas",Diplomats and other foreign government visas
+NATO 3,"Official Clerical Staff Accompanying Representative of Member State to NATO (including any of its Subsidiary Bodies), or Immediate Family",Diplomats and other foreign government visas
+NATO 4,"Official of NATO (Other Than Those Classifiable as NATO1), or Immediate Family",Diplomats and other foreign government visas
+NATO 5,"Experts, Other Than NATO Officials Classifiable Under NATO4, Employed in Missions on Behalf of NATO, and their Dependents",Diplomats and other foreign government visas
+NATO 6,Member of a Civilian Component Accompanying a Force Entering in Accordance with the Provisions of the NATO Status-of-Forces Agreement; Member of a Civilian Component Attached to or Employed by an Allied Headquarters Under the “Protocol on the Status of International Military Headquarters” Set Up Pursuant to the North Atlantic Treaty; and their Dependents,Diplomats and other foreign government visas
+NATO 7,"Attendant, Servant, or Personal Employee of NATO1, NATO2, NATO 3, NATO4, NATO5, and NATO6 Classes, or Immediate Family",Diplomats and other foreign government visas
+N8,Parent of an Alien Classified SK3 or SN3,Diplomats and other foreign government visas
+N9,"Child of N8 or of SK1, SK2, SK4, SN1, SN2 or SN4",Diplomats and other foreign government visas
+B2,Temporary visitors for pleasure,Tourism Related visas
+WT,Visa Waiver Program – temporary visitors for pleasure,Tourism Related visas
+GT,Guam Visa Waiver Program – temporary visitors for pleasure to Guam,Tourism Related visas
+GMT,Guam - Commonwealth of Northern Mariana Islands (CNMI) Visa Waiver Program - temporary visitors for pleasure to Guam or Northern Mariana Islands,Tourism Related visas
+B1,Temporary visitors for business,Temporary Business visas
+WB,Visa Waiver Program – temporary visitors for business,Temporary Business visas
+GB,Guam Visa Waiver Program – temporary visitors for business to Guam,Temporary Business visas
+GMB,Guam - Commonwealth of Northern Mariana Islands (CNMI) Visa Waiver Program - temporary visitors for business to Guam or Northern Mariana Islands,Temporary Business visas
+C1,Aliens in continuous and immediate transit through the United States,Other Visas
+C2,Aliens in transit to the United Nations,Other Visas
+C3,"Foreign government officials, their spouses, children, and attendants in transit",Other Visas
+F3,Canadian or Mexican national academic commuter students,Other Visas
+M3,Canadian or Mexican national vocational commuter students,Other Visas
+K1,Fiancé(e)s of U.S. citizens,Other Visas
+K2,Children of K1,Other Visas
+K3,"Spouses of U.S. citizens, visa pending",Other Visas
+K4,"Children of U.S. citizens, visa pending",Other Visas
+V1,"Spouses of permanent residents, visa pending",Other Visas
+V2,"Children of permanent residents, visa pending",Other Visas
+V3,"Dependents of V1 or V2, visa pending",Other Visas
+C1/D,Combined transit and crewmember visa,Other Visas
+D,Crewmember (sea or air),Other Visas
+T1,Victim of a severe form of trafficking in persons,Other Visas
+T2,Spouse of T1,Other Visas
+T3,Child of T1,Other Visas
+T4,Parent of T1,Other Visas
+T5,Unmarried sibling under age 18 of T1,Other Visas
+T6,Adult or minor child of a derivative beneficiary of a T1,Other Visas
+U1,Victim of criminal activity,Other Visas
+U2,Spouse or U1,Other Visas
+U3,Child of U1,Other Visas
+U4,Parent of U1 under 21 years of age,Other Visas
+U5,Unmarried Sibling under age 18 of U1 under 21 years of age,Other Visas
+S5,Certain Aliens Supplying Critical Information Relating to a Criminal Organization or Enterprise,Other Visas
+S6,Certain Aliens Supplying Critical Information Relating to Terrorism,Other Visas
+S7,Qualified Family Member of S5 or S6,Other Visas

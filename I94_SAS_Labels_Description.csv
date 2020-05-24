@@ -1,0 +1,28 @@
+field,description
+i94yr,4 digit year
+i94mon,Numeric month
+i94cit,3 character code representing city of origination
+i94res,3 character code likely to be representing city of residence
+i94port,3 character code representing port of arrival
+arrdate,Date of arrival in USA as a SAS numeric field
+i94mode,1 character code representing the method of transport to USA
+i94addr,2 character string representing state of stay in USA
+depdate,Date of departure from USA as a SAS numeric field
+i94bir,Age of Respondent in Years
+i94visa,"Visa codes collapsed into three categories 1 = Business 2 = Pleasure 3 = Student "
+count, Used for summary statistics
+dtadfile, Character Date Field - Date added to I-94 Files
+visapost,Department of State where where Visa was issued
+occup,Occupation that will be performed in U.S.
+entdepa,Arrival Flag - admitted or paroled into the U.S.
+entdepd, Departure Flag - Departed, lost I-94 or is deceased
+entdepu, Update Flag - Either apprehended, overstayed, adjusted to perm residence
+matflag,Match flag - Match of arrival and departure records
+biryear,4 digit year of birth
+dtaddto,Character Date Field - Date to which admitted to U.S. (allowed to stay until)
+gender,Non-immigrant sex
+insnum,INS number
+airline,Airline used to arrive in U.S.
+admnum,Admission Number
+fltno,Flight number of Airline used to arrive in U.S.
+visatype,Class of admission legally admitting the non-immigrant to temporarily stay in U.S.
